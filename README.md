@@ -7,7 +7,9 @@
 <p align="center">
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Go](https://img.shields.io/badge/Golang%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=blue)
+    ![Go](https://img.shields.io/badge/Golang%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/js%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
 </p>
 
 <a href="https://github.com/in/alima12">
