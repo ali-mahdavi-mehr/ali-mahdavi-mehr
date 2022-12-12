@@ -3,11 +3,12 @@
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
   </a>
 </div>
+
 <p align="center">
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/Golang%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=blue)
-    ![JavaScript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/js%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
 </p>
 
 <a href="https://github.com/in/alima12">
