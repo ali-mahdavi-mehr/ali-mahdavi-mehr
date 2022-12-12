@@ -1,5 +1,10 @@
-<p align="center">
+<div align="center">
+  <a href="https://1999azzar.github.io/alima12/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
+<p align="center">
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/Golang%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=white)
