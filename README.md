@@ -20,7 +20,7 @@
   
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Go](https://img.shields.io/badge/Golang%20-%2314354C.svg?style=for-the-badge&logo=go&logoColor=Go)
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     ![Javascript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=gold)
  
 </p>
@@ -30,10 +30,28 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+
+	
+	
+  <a href="https://fastapi.tiangolo.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"
+      alt="Fastapi" /> 
+  </a>
+  <a href="https://www.djangoproject.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+      alt="Django" /> 
+  </a>
+	
+<a href="https://www.django-rest-framework.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
+      alt="Django Restframework" /> 
+  </a>
+	
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
+	
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
