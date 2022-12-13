@@ -149,5 +149,5 @@
 <a align="center" href="https://github.com/alima12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alima12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alima12)](https://github.com/alima12)
