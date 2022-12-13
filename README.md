@@ -151,7 +151,7 @@
 </a>
 
 <br/>
-<p align="center">
-	
-[![trophy](https://github-profile-trophy.vercel.app/?username=alima12&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+<div align="center" width="100">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alima12&row=1&column=6&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
