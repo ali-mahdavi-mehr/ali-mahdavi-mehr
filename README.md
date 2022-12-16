@@ -99,6 +99,11 @@
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
   </a> 
+  <a href="#" target="_blank"> 
+    <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"
+      alt="Testing" /> 
+  </a> 
+
 
 </p>
 
