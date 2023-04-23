@@ -6,7 +6,7 @@
 <br>
 
 - A passionate Self-taught Back-end developer
-- Using python, javascript, Golang to Develop API's
+- Using python and Golang to Develop API's
 - Currently learning Golang
 
 <br><br>
@@ -21,7 +21,6 @@
 - **Languages**:
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-    ![Javascript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=gold)
  
 </p>
 
