@@ -150,7 +150,7 @@
 </a>
 
 <a align="center" href="https://github.com/ali-mahdavi-mehr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alima12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404258" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mahdavi-mehr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404258" />
 </a>
 
 <br/>
