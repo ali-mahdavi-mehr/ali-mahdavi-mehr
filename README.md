@@ -8,7 +8,6 @@
 
 - A passionate Self-taught Back-end developer
 - Using python and Golang to Develop API's
-- Currently learning Golang
 
 <br><br>
 
